@@ -1,8 +1,8 @@
 .container {
     margin: auto;
-    padding-top: 5rem;
+    padding-top: 10rem;
     padding-bottom: 10rem;
-    max-width: 80%;
+    max-width: 50%;
     position: static;
     font-family: 'Roboto', sans-serif;
 }
@@ -33,8 +33,3 @@ a:hover {
     background-color: yellow;
 }
 
-img {
-    max-width: 100%;
-    height: auto; 
-    border-radius: 10px;
-}
