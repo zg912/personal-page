@@ -1,0 +1,40 @@
+.container {
+    margin: auto;
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    max-width: 50%;
+    position: static;
+    font-family: 'Roboto', sans-serif;
+}
+
+.content {
+    padding-left: 5px;
+}
+
+body {
+    color: #9fa8a3;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #767c79;
+}
+
+
+ul, a {
+    font-family: 'Roboto', sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+    float: right;
+    color: #9fa8a3;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+img {
+    max-width: 100%;
+    height: auto; 
+    border-radius: 10px;
+}
